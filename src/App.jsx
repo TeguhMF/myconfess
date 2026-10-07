@@ -24,8 +24,7 @@ export default function App() {
   const audioRef = useRef(null);
 
   const namaGebetan = "Elsa Puspitasari";
-  const musicUrl = "bucin.mp3"; // Ganti dengan URL musik kalian
-  // Ganti URL foto kalian di sini
+  const musicUrl = "bucin.mp3"; 
   const photoUrl = "bucin.jpeg"; 
 
   const handleShoot = () => {
